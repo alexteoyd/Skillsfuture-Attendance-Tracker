@@ -1,4 +1,4 @@
-📝 Singapore Attendance Checker using Selenium
+#📝 Singapore Attendance Checker using Selenium
 
 ## 🧠 Overview
 
