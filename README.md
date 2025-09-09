@@ -27,19 +27,7 @@ Easily run the script in a Jupyter notebook for quick ad hoc usage or integratio
 ---
 
 ## 🗂️ Project Structure
-
-<pre> ``` your/project/ ├── folder/ │ └── file.py └── README.md ``` </pre>
-<pre> project-root/
-  │
-  ├── src/
-  │ └── main.py # Attendance checking script
-  │
-  ├── README.md # This file
-  ├── requirements.txt # Python dependencies
-
-
-## Project Structure
-
+<pre>
 project-root/
 │
 ├── src/
