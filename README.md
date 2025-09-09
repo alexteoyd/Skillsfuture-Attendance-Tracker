@@ -1,4 +1,4 @@
-#📝 Singapore Attendance Checker using Selenium
+# 📝 Singapore Attendance Checker using Selenium
 
 ## 🧠 Overview
 
@@ -28,6 +28,7 @@ Easily run the script in a Jupyter notebook for quick ad hoc usage or integratio
 
 ## 🗂️ Project Structure
 
+<pre> ``` your/project/ ├── folder/ │ └── file.py └── README.md ``` </pre>
 
 
 ## Project Structure
