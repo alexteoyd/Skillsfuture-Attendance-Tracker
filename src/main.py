@@ -5,32 +5,9 @@ import time
 
 # ====== YOUR FULL EXPECTED STUDENT LIST ======
 expected_students = [
-    "MOHAMMAD FAHMY BIN MAHAMUD",
-    "NURUL KHAIRIAH BINTE ABDUL KADIR",
-    "RAKHI THULASIDEVI",
-    "SITI NAJIHAH BINTE ABU TALIB",
-    "LUO QIUFENG",
-    "YONG SHET MING",
-    "PASHA SIRAJ",
-    "WONG YUE XIN",
-    "KEH SIOK YAN",
-    "KONG YUYUN",
-    "GOWRY CHANDRA SEGARAN",
-    "CHOW KWONG MENG",
-    "MASHURE RAHMAN",
-    "LIM FENG RUI EDMUND",
-    "BRIAN WEE",
-    "HO CHOO GEOK",
-    "CHAN YUAN HUI",
-    "MIKE TAN YONG EN",
-    "NUR ADRIANA BINTE MOHAMED YAZID",
-    "LEE JING WEI",
-    "GOH CHONG HENG",
-    "AZFAR BIN AZMI",
-    "MADHUSUDHAN SWATHI",
     "ALEX TEO",
-    "YUEN VEESHEEN",
-    "TESTER 1"  # If needed
+    "STUDENT 1",
+    "STUDENT 2" # If needed
 ]
 
 # ====== URL TO CHECK ======
